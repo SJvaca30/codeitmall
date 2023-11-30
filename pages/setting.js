@@ -1,3 +1,3 @@
-export default function Search() {
-  return <div>Search 페이지</div>;
+export default function Setting() {
+  return <div>Setting 페이지</div>;
 }
